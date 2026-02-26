@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grade 6 - Computer Project</title>
+
+    <style>
+        body {
+            background: linear-gradient(to right, #a855f7, #d8b4fe);
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .box {
+            background-color: white;
+            width: 75%;
+            margin: 40px auto;
+            padding: 25px;
+            border-radius: 20px;
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+            border: 4px dashed purple;
+        }
+
+        h1 {
+            color: #6b21a8;
+        }
+
+        h2 {
+            color: #9333ea;
+        }
+
+        h3 {
+            color: #7e22ce;
+            text-decoration: underline;
+        }
+
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+
+        .highlight {
+            color: #a21caf;
+            font-weight: bold;
+        }
+
+        .box:hover {
+            transform: scale(1.02);
+            transition: 0.3s;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="box">
+        <h1>🌟 Grade 6 - Computer Project 🌟</h1>
+        <h2>💻 Athena Dhevond D. Gelanga - HTML Page 💻</h2>
+
+        <h3>📚 Student Information 📚</h3>
+
+        <p>
+            My name is <span class="highlight">Athena Dhevond D. Gelanga</span>.
+            I am turning <span class="highlight">12 years old</span> this coming
+            <span class="highlight">October 11</span>. 🎉
+        </p>
+
+        <p>
+            🎸 <b>Hobbies:</b> Playing Guitar and Singing 🎤
+        </p>
+
+        <p>
+            🎨 <b>Interests:</b> Creative arts like drawing fashion clothes,
+            baking cookies or brownies 🍪, and learning to cook simple meals 👩‍🍳.
+        </p>
+
+    </div>
+
+</body>
+</html>
